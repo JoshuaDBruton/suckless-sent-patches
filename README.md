@@ -8,14 +8,16 @@ The presentation is displayed in a simple X11 window. The content of each slide
 is automatically scaled to fit the window and centered so you also don't have to
 worry about alignment. Instead you can really concentrate on the content.
 
-Patches Applied Here
-    https://tools.suckless.org/sent/patches/
-    bilinear scaling/
-    cmdline options/
-    inverted colors/
-    progress bar/
-    toggle scm/
-    toggle cursor/
+# Patches Applied Here
+ - bilinear-scaling
+ - cmdline-options
+ - inverted-colors
+ - progress-bar
+ - toggle-scm
+ - toggle-cursor
+
+More info at:
+https://tools.suckless.org/sent/patches/
 
 Dependencies
 
